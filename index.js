@@ -21,6 +21,15 @@
 
 
 
-$("h1").click(function(){
-    $("h1").toggle(); 
-})
+//$("h1").click(function(){
+ //   $("h1").toggle(); 
+//})
+/*const fs=require("fs");
+fs.writeFile("message.txt","hello from nodejs!",(err) => {
+    if (err) throw err;
+   console.log('successfully deleted /tmp/hello');
+  });
+  fs.readFile("./message.txt", "utf8",(err, data) => {
+    if (err) throw err;
+    console.log(data);
+  }); */
